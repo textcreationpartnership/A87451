@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just vindication of the reputation of Mr. VVhite alderman of the city of Exon, in answer to a scurrillous pamphlet cald the Visihle [sic] vengeance, &amp;c. Wherin is discovered the many falsities and untruths in that relation attested under the hand of his own servant that was with him in his journey till the day of his death: as also a true relation of the sad accident that befell him, with the circumstances thereof.</title>
+            <author>Dore, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87451</idno>
+            <idno type="STC">Wing J1245</idno>
+            <idno type="STC">Thomason E538_10</idno>
+            <idno type="STC">ESTC R202601</idno>
+            <idno type="EEBO-CITATION">99862829</idno>
+            <idno type="PROQUEST">99862829</idno>
+            <idno type="VID">115006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115006)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just vindication of the reputation of Mr. VVhite alderman of the city of Exon, in answer to a scurrillous pamphlet cald the Visihle [sic] vengeance, &amp;c. Wherin is discovered the many falsities and untruths in that relation attested under the hand of his own servant that was with him in his journey till the day of his death: as also a true relation of the sad accident that befell him, with the circumstances thereof.</title>
+                  <author>Dore, Christopher.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Rothwell, and are to be sold at his shop at the signe of the Sunne and Fountaine in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists primarily of statements by Christopher Dore, White's servant.</note>
+                  <note>Annotation on Thomason copy: "Jan: 13th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>White, Walter, --  Mayor of Exeter.</term>
+               <term>Visible vengeance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115006:1" rendition="simple:additions"/>
+            <p>A juſt VINDICATION of the Reputation of Mr. <hi>VVHITE</hi> Alderman of the City OF EXON, In Anſwer to a Scurrillous Pamphlet cald the <hi>Viſible Vengeance, &amp;c.</hi> Wherin is diſcovered the many fal<g ref="char:EOLhyphen"/>ſities and untruths in that Relation atteſted under the hand of his own ſervant that was with him in his journey till the day of his death: As alſo a true Relation of the ſad accident that befell him, with the Circum<g ref="char:EOLhyphen"/>ſtances thereof.</p>
+            <q>
+               <hi>They whet their tongue like a Sword, and bend their Bowes to ſhoot their arrowes, even bitter words, That they may ſhoot at the perfect</hi> 
+               <bibl>Pſal. 64. 3. 4.</bibl>
+            </q>
+            <q>
+               <hi>To him that is afflicted pity ſhould be ſhewed from his friend, but he forſaketh the feare of the Almighty,</hi> 
+               <bibl>Job 6. 14.</bibl>
+            </q>
+            <p>LONDON, Printed for <hi>Iohn Rothwell,</hi> and are to be ſold at his Shop at the Signe of the <hi>Sunne</hi> and <hi>Fountaine</hi> in <hi>Pauls</hi> Church-yard, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:115006:2"/>
+            <pb n="1" facs="tcp:115006:2"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is no new thing for the ſervants of God that have in any eminent way oppos'd the ini<g ref="char:EOLhyphen"/>quity of the times in their Generation, to be hated while they live, and to be reviled and reproached at their death by the tongues, and pens of lewd and prophane ſpirits, In all ages (ſaith one) there are not wanting ſome <hi>qui ſcepticè &amp; ſcabioſè de bonis loquantur.</hi> This hath been the lot of this pious Ma<g ref="char:EOLhyphen"/>giſtrate of the City of <hi>Exon</hi> by this falſe and malicious Pam<g ref="char:EOLhyphen"/>phleteere, who hath patch't together a bundle of untruths to make up his accuſation and charge him (as will appear in the ſequell) that he may hereby not only harden his own heart, but others alſo in their deſperate Malignancy, ſucking poyſon out of every ſad accident to increaſe their venom, and to ſtrengthen themſelves in their evill wayes, but thus it hath and ever will be, that thoſe that ſeeke occaſion to ſtumble at (by the juſt hand of God) ſhall find enough to harden themſelues by to their own deſtruction. Let not the Saints of God be troubled at it, if they ſee reproaches caſt upon their brethren in their life, or at their death, its their duty to keep themſelves innocent, and it will be comfort enough when they are ſo; we muſt be content a while here, (if God will have it ſo) that our good names as well as our bodies (like the Corne) muſt dye, and rot awhile before they riſe up a<g ref="char:EOLhyphen"/>gaine, and appeare more glorious, the ſervant is not greater then his Maſter, Chriſt himſelfe was call'd a <hi>Beelzebub</hi> while he lived, and ſuffered upon this very point, (as this ſervant of God doth) as a malefactor, when he dyed, becauſe he was cryed out againſt as an enemy to <hi>Caeſar.</hi>
+            </p>
+            <p>Reader, were the perſon ſo well known to thee, as he was in the place where he lived, it were needleſſe to make reply by way of Vindication to ſo ſcurrilous a paper, for what is
+<pb n="2" facs="tcp:115006:3"/> there charged upon him cannot at all be credited by any ſo<g ref="char:EOLhyphen"/>ber ſpirits that knew him, only conſidering that it is every Chriſtians duty to endeavour what he can, to Vindicate the reputation of the innocent, (eſpeciall ſuch as were publick perſons that cannot cleere themſelves) as alſo becauſe ſtran<g ref="char:EOLhyphen"/>gers now adayes are too apt to entertain a beliefe of that which is aſſerted in Print and not contradicted, but chiefly that the mouth of inquity may be ſtopped, and that none from this ſad act of Providence may take occaſion to harden themſelves in their Malignancy (againſt which the Majeſty of Heaven hath ſo viſibly appeared, and which ſeemes to be the errand of this lying imputation) I ſhall</p>
+            <p n="1">1. Give thee a true Character of the man what he was who is thus aſperſed.</p>
+            <p n="2">2. A true relation of the ſad accident that befell him in his journey to <hi>London,</hi> atteſted under the hand of his ſervant that was with him, that hereby (comparing it with the ſeur<g ref="char:EOLhyphen"/>rilous Pamphlet) thou maiſt ſee how wickedly and baſely he is wronged.</p>
+            <p n="1">1. As for the Character of the man it is well known, That he was a pious man and a good Magiſtrate that puniſhed ſin impartially without reſpect of perſons, one that hath both done and ſuffered much in perſon and otherwayes to further the worke of Reformation in a right Parliamentary way, he was no enemy to Monarchy; nor no friend to Malignants to uphold arbitrary and Tyrannicall Government, he was e<g ref="char:EOLhyphen"/>qually averſe to Sectaries on the one hand as to Malignants on the other, very ſparing in his ſpeeches to his very friends; and therfore very unlikely to be ſo raſh; violent and reproach<g ref="char:EOLhyphen"/>ing in his language of the King before ſtrangers, yea and that ſuch as were ſo vile and wicked (as thoſe were that were in the Waggon with him;) as will appeare in the narration; he was of a more ſober ſpirit then to uſe ſuch bitter revilings and more wiſe then to ſpeak before ſo rude a people; as is well known, to thoſe that knew him, and therfore the more wicked was the Pamphleteere that belies him ſo much in Print to his defamation.</p>
+            <p n="2">2. Take a briefe yet true Narration of his journey and the ſad accident that beſell him atteſted under the hand of his
+<pb n="3" facs="tcp:115006:3"/> own ſervant that was with him in his journey till he dyed. Which is as followeth.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>A briefe Relation of certaine paſſages which hapned unto my Maſter Mr.</hi> Walter White <hi>in his journey from his Son in Law Mr.</hi> William Whites <hi>houſe to<g ref="char:EOLhyphen"/>wards</hi> London <hi>untill the time of his death.</hi>
+            </head>
+            <p>MY Maſter intending a journey for <hi>London,</hi> hyred two horſes of one <hi>Paine</hi> a Waggoner belonging to the Town of <hi>Poole</hi> in the County of <hi>Dorſet,</hi> who was to bring the ſaid horſes on the 20. th of <hi>November</hi> laſt paſt, to the houſe of Mr. <hi>William White</hi> at <hi>Hampreſton,</hi> but then brought but one, pro<g ref="char:EOLhyphen"/>miſing at <hi>Ringwood</hi> five miles further on the road, he ſhould not ſaile of the other, but my Maſter coming to <hi>Ringwood</hi> in expectation of this other horſe ſound the Waggon indeed there, and going towards <hi>Rumſey</hi> 15 miles from <hi>Ringwood,</hi> but the Waggoner (who made the promiſe) not yet come, and when come had not yet provided the other horſe, ſo we were forced to ſtay there till he procured the horſe, and by this time the Waggon being neere two houres before us ere we could overtake the Waggon, it was by ſix horſemen driven out of the road and robbed in the new Forreſt, 5, or 6 miles from <hi>Ringwood.</hi> Being come to <hi>Rumſey,</hi> (for till then we knew not of the accident) the Waggoner (finding his goods ſo mixt that he could not diſcern one mans goods from another,) reſolved to return, and would not let us have his horſes according to agreement, being thus diſappointed, with much difficulty (after one whole dayes ſtay at <hi>Rumſey)</hi> got horſes to carry us to <hi>Wincheſter,</hi> and there not being able (after tryall) to get horſes to carry us thorow to <hi>London,</hi> my Maſter was neceſſitated to put himſelfe into an <hi>Hampton</hi>
+               <pb n="4" facs="tcp:115006:4"/> Waggon, the Maſter whereof lived at <hi>Eaſon</hi> two miles from <hi>Wincheſter,</hi> whether we went on <hi>Saturday</hi> the 26 of <hi>Novemb.</hi> and 27 ſet forward in the Waggon with foure other paſſen<g ref="char:EOLhyphen"/>gers (very lewd people as we afterwards found) one man and three women, we lay that night at <hi>Odium</hi> the next morning being gone neere 3 miles on our journey, coming into a bad way, the driver of the Waggon drove on the ſide of a banke, the Wagon being heavy loaden, leaning much to th'one ſide broke the pin which held it, and the wheeles together, and ſo fell over my Maſter having a box by his left ſide, fell on that, and the paſſengers on him, which bruiſed him very much, yet he lived neere 18 houres afterward, and 14 houres in perfect mind; he dyed <hi>Wedneſday</hi> morning 29 of <hi>Novemb.</hi> 1648. Af<g ref="char:EOLhyphen"/>ter the death of my ſaid Maſter, the Jury and Corroner ſitting upon him, found the aforementioned box to be part of the cauſe of his death, and ſo indited it. <hi>Chriſtopher Dore.</hi>
+            </p>
+            <p>Now if thou pleaſe to peruſe the Printed Papers relation, you may eaſily ſee the falſities therein contained which is as followeth, <hi>Friday</hi> the firſt of this inſtant <hi>December</hi> 1648. One <hi>White</hi> who was laſt yeere Major of <hi>Exeter,</hi> being upon the Road between that City and this of <hi>London</hi> in a Waggon of <hi>Exater,</hi> and twelve other paſſengers in it, neere <hi>Bagſhot,</hi> began an invective and bitterly rayled againſt his Sacred Ma<g ref="char:EOLhyphen"/>jeſty, uſing many vile and reproachfull ſpeeches againſt him, which when ſome of the company reſented, and ſeemed to diſlike in a rage of much ſinfull paſſion, he ſtuck not to ſay, That hanging was too good for the King, and that if he were buryed alive, it were a death good enough for him: and added rather then it ſhould be undone, he would be ready to do that himſelfe, which words were ſcarcely by him uttered, when the Waggon was with the paſſengers in it ſuddainly overtur<g ref="char:EOLhyphen"/>ned, and this blaſphemous wretch <hi>White</hi> killed outright, with<g ref="char:EOLhyphen"/>out leave of one words ſpeech, not one of the reſt (his man excepted who was a little bruiſed, it may be ſuffering for his relation to ſo wicked a Maſter) being in the leaſtwiſe hurt.</p>
+            <div type="part">
+               <head>
+                  <hi>What things are falſe in the printed relation of my maſter Mr.</hi> Walter White <hi>his death.</hi>
+               </head>
+               <p>He dyed the 29. th of <hi>November</hi> 1648. whereas the Pam<g ref="char:EOLhyphen"/>phlet ſaith, the firſt of <hi>December.</hi>
+               </p>
+               <pb n="5" facs="tcp:115006:4"/>
+               <p>2. He received his fall out of an <hi>Hampton</hi> Waggon one mile on this ſide <hi>Hartlerow</hi> in the Pariſh of <hi>Hartlewinkay;</hi> the Pam<g ref="char:EOLhyphen"/>phlet ſaith 'twas out of an <hi>Exter</hi> Waggon neere <hi>Bagſhot.</hi>
+               </p>
+               <p>3. In the Waggon were but ſix Paſſengers with himſelf, the Pamphlet ſaith twelve.</p>
+               <p>4. The day before he ſell, he reprooved the reſt of the <note place="margin">Reader thou maiſt perceive what a ſtranger he was to this ſad ac<g ref="char:EOLunhyphen"/>cident which he relateth.</note> paſſengers for their wanton and laſoivious diſcourſe (which diſcourſe was moſt abominable) but that day in which he received his hurt did not ſpeake—one word of the King or of any State buſineſſe; the Pamphler ſaith that he uſed ma<g ref="char:EOLhyphen"/>ny vile and reproachfull ſpeeches againſt the King.</p>
+               <p>5. He lived after his fall neer 18 houres, and in perfect mind above 14 houres, the Pamphlet ſaith he was kill'd outright.</p>
+               <closer>
+                  <signed>What is here teſtifyed by me is the truth. Chriſtopher Dore.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>Reader, by this relation and the many untruths therein, thou maiſt eaſily perceive of what ſtamp the Pampleteere was of, and how much he reſembleth him that is a lyer and <note place="margin">Ioh. 8. 44.</note> the father of it, one would think ſo ſhort a relation could hard<g ref="char:EOLhyphen"/>ly be ſtuft with ſo many untruths, It evidently appeares, he was not only a ſtranger to his perſon, but to this ſad accident that befell him, yet deales with him as the Barbarians at <hi>Me<g ref="char:EOLhyphen"/>lita</hi> with <hi>Paul,</hi> (though a ſtranger alſo to them) yet when the Viper was on his hand preſently cry out that vengeance will not ſuffer him to live; Its a very ill but a very common thing to Judge of perſous and of cauſes by the ſucceſſe, man is apt to think them the worſt who ſuffer worſt, and that they have ſinned moſt that have ſuffered moſt and have moſt ſor<g ref="char:EOLhyphen"/>row, ſurely he hath borne our griefs and carryed our ſorrows yet (we did eſteeme him) ſtricken, ſmitten of God and af<g ref="char:EOLhyphen"/>flicted, <note place="margin">Fſa. 53. 4. Luk. 13. 2 3.</note> ſay they of our Saviour. I confeſſe great afflictions carry a charge of wickedneſſe upon the afflicted, but tis by them that judge only by ſence. The Pamphleteere tels you immediately after his narrative, that the Judgements of God are a great deep, which indeed the Scripture ſheweth, <note place="margin">Pſal. 36. 6. Ecel. 9. 8.</note> and had he conſidered it as he ought, it might have ſilenced his revilings, for indeed here all things happen alike to all, as to the wicked ſo to the Righteous ſaith <hi>Solomon;</hi> I would not hereby take thee off Reader from obſerving the juſt judge<g ref="char:EOLhyphen"/>ment,
+<pb n="6" facs="tcp:115006:5"/> of God, but take heed of being too criticall and cenſori<g ref="char:EOLhyphen"/>ous in the particular application of them; indeed if men have been impions and abominable in their lives (which none can faſten upon this reproached Citizen) and God had in the ve<g ref="char:EOLhyphen"/>ry act of ſin cut him off, here might have been ſome place for an <hi>ecce digitus Dei,</hi> but to draw uncharitable and ungodly in<g ref="char:EOLhyphen"/>ferences meerly from the untimely deaths of men, becoms not a ſober ſpirit but is contrary not only to Religion but even to civility alſo; It was indeed an aggravation to his ſad afflict<g ref="char:EOLhyphen"/>ion that he fell into the company of ſuch barbarous and un<g ref="char:EOLhyphen"/>cleane people; which becauſe he ſharply reprooved them for their uncivill and wanton diſcourſe while he lived, they would be ſure to beſpatter him with lying reproaches at his death, ſo <note place="margin">Prov. 9, 7.</note> true is that of the wiſeman here, <hi>he that reprooveth a ſcorner getteth himſelfe a blot.</hi>
+               </p>
+               <p>Reader I will not trouble thee further in replying to ſo bit<g ref="char:EOLhyphen"/>ter and malicious a paper, as may appeare by his language and miſapplications of Scripture, eſpecially that with which he cloſeth up his railing diſcourſe, 2 <hi>Sam.</hi> 16. 9. As for thoſe places of Scripture that he uſeth or rather abuſeth in his appli<g ref="char:EOLhyphen"/>cation of them, you know they are the common texts which the Malignants of theſe times have frequently in their months to deceive ſimple ſoules, and to prop up a tottering and dying cauſe, which God hath once and againe ſo viſibly declared a<g ref="char:EOLhyphen"/>gainſt, were they not hardened in their iniquity, they might ſee it, and repent, they are glad to catch at any thing that may ſupport them in their ſinking condition, and nouriſh that ra<g ref="char:EOLhyphen"/>dicall hatred that is in them againſt the cauſe of God and his people. That which I have written hath been only to Vin<g ref="char:EOLhyphen"/>dicate the ſlandered reputation of this worthy Citizen, whom we are bound to honour, and to ſatisfie the ſober minded; As for others that are ſet upon reviling (whoſe tongues are bent like bowes for lyes) I know nothing will ſtop their mouths. I ſhall cloſe therefore with that 14. Hoſ. 9. <hi>The wayes of the Lord are right, and the juſt will walk in them, but tranſ<g ref="char:EOLhyphen"/>greſſors ſhall fall therein.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
